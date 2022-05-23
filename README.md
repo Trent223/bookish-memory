@@ -1,5 +1,3 @@
 # bookish
-Code Louisville Demo00000000000000000
+Code Louisville Demo
 
-
-This is a sample change.Test
