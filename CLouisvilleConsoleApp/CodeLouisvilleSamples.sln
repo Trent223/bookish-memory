@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32505.173
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeLouisvilleHelloWorldProgram", "CLouisvilleConsoleApp\CodeLouisvilleHelloWorldProgram.csproj", "{5EB9335D-CCEE-4B31-87C1-2ADE10050D49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeLouisvilleHelloWorldProgram", "CLouisvilleConsoleApp\CodeLouisvilleHelloWorldProgram.csproj", "{5EB9335D-CCEE-4B31-87C1-2ADE10050D49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeLouisvilleBandMembers", "CodeLouisvilleBandMembers\CodeLouisvilleBandMembers.csproj", "{6F93A9AF-84C7-4A73-9EE8-33B7A5DF8977}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeLouisvilleBandMembers", "CodeLouisvilleBandMembers\CodeLouisvilleBandMembers.csproj", "{6F93A9AF-84C7-4A73-9EE8-33B7A5DF8977}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeLouisvilleConditionalPractice", "CodeLouisvilleConditionalPractice\CodeLouisvilleConditionalPractice.csproj", "{62EE3721-F6FE-405E-ABDF-173C3C879E22}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeLouisvilleConditionalPractice", "CodeLouisvilleConditionalPractice\CodeLouisvilleConditionalPractice.csproj", "{62EE3721-F6FE-405E-ABDF-173C3C879E22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeLouisvilleArrayPractice", "CodeLouisvilleArrayPractice\CodeLouisvilleArrayPractice.csproj", "{DC7C57F7-6473-4B17-A6C8-EB3450100E1F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{62EE3721-F6FE-405E-ABDF-173C3C879E22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62EE3721-F6FE-405E-ABDF-173C3C879E22}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62EE3721-F6FE-405E-ABDF-173C3C879E22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC7C57F7-6473-4B17-A6C8-EB3450100E1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC7C57F7-6473-4B17-A6C8-EB3450100E1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC7C57F7-6473-4B17-A6C8-EB3450100E1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC7C57F7-6473-4B17-A6C8-EB3450100E1F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
