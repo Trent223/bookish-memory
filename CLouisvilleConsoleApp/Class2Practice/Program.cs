@@ -18,7 +18,6 @@
             }
             
             Console.WriteLine($"You entered {inputAsInt}");
-                
         }
     }
 }
