@@ -4,7 +4,6 @@
     {
         static void Main(string[] args)
         {
-            //While loop example
             Console.WriteLine("Please enter a number: ");
             string input = Console.ReadLine();
             int inputAsInt;
@@ -16,8 +15,14 @@
                 input = Console.ReadLine();
                 wasInt = int.TryParse(input, out inputAsInt);
             }
-            
+
             Console.WriteLine($"You entered {inputAsInt}");
+
+            //Now print all the numbers from 0 to the user input
+            for(int i = 0; i <= inputAsInt; i += 2)
+            {
+                Console.WriteLine(i);
+            }
         }
     }
 }
