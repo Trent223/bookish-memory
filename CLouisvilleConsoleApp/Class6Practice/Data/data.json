@@ -1,0 +1,9 @@
+{
+  "name": "John",
+  "age": 30,
+  "car": null,
+  "myCategory": {
+    "somefield": "test",
+    "someint": 5
+  }
+}

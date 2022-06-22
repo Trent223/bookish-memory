@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CodeLouisvilleArrayPractice
 {
-    internal class BusRoute
+    public class BusRoute
     {
         public int Number { get; }
         public string Origin { get; }
